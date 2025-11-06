@@ -1,0 +1,16 @@
+# compiled output
+/dist
+
+# node environment
+/node_modules
+
+# maps + declarations (you don’t need these in git normally)
+*.map
+*.d.ts
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+
+# temp local env
+.env
